@@ -1,4 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yusuff Ogundeji=======================================================================================================================================FullStack Developer-------------------I am a Software Developer passionate about building software systems that will meet users' needs at the largest scale possible. I am versatile with various software technologies and I enjoy learning new ones. As a developer, I pay special attention to understanding user and business requirements. As a community enthusiast, I contribute to opensource as a way to give back to the community. Also, you'll find me reading books on finance, writing articles (I contribute my technical and non-technical blog) to share my thoughts and things I've learned about.* 🌍  I'm based in Ibadan, Nigeria.* ✉️  You can contact me at [yusuffogundeji6@gmail.com](mailto:yusuffogundeji6@gmail.com)* 🚀  I'm currently working on [I'm currently working on an e-commerce website.](http://github.com/Temiogundeji/t-commerce)* 🧠  I'm learning data structures and algorithm* 🤝  I'm open to collaborating on interesting projects I could learn from and make some impact.* ⚡  I enjoy writing articles (technical and non-technical), reading financial statements, gathering requirements and designing wireframes for my next projects.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yusuff Ogundeji
+=======================================================================================================================================
+FullStack Developer
+-------------------
+I am a Software Developer passionate about building software systems that will meet users' needs at the largest scale possible. I am versatile with various software technologies and I enjoy learning new ones. As a developer, I pay special attention to understanding user and business requirements. As a community enthusiast, I contribute to opensource as a way to give back to the community. Also, you'll find me reading books on finance, writing articles (I contribute my technical and non-technical blog) to share my thoughts and things I've learned about.
+* 🌍  I'm based in Ibadan, Nigeria.* 
+* ✉️  You can contact me at [yusuffogundeji6@gmail.com](mailto:yusuffogundeji6@gmail.com)*
+* 🚀  I'm currently working on [T-commerce website.](http://github.com/Temiogundeji/t-commerce)*
+* 🧠  I'm learning data structures and algorithm* 
+* 🤝  I'm open to collaborating on interesting projects I could learn from and make some impact.* 
+* ⚡  I enjoy writing articles (technical and non-technical), reading financial statements, gathering requirements and designing wireframes for my next projects.
 
 ### Skills
 
