@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Yusuff Ogundeji
 
 ## About Me
-Dedicated and versatile software engineer with strong frontend expertise, having worked on projects across industries including e-commerce, fintech, and edtech, building applications and solutions for both small businesses and enterprise clients. Beyond coding, I engage in system design and comprehensive documentation.
+Dedicated and versatile software engineer with strong web and software technologies expertise, having worked on projects across industries including e-commerce, fintech, and edtech, building applications and solutions for both small businesses and enterprise clients. Beyond coding, I engage in system design and comprehensive documentation.
 
 I'm motivated to create user-centric products that satisfy business requirements while mentoring software engineering newbies. I excel at communicating complex technical concepts through simple, clear writing and strive to make an impact with every technical decision. **I'm always excited to learn and adapt to new technologies as projects demand.**
 
